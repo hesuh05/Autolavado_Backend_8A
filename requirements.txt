@@ -1,1 +1,4 @@
-fastapi[standard] pydantic pylint
+fastapi[standard]
+pydantic
+pylint
+sqlalchemy
